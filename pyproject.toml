@@ -1,0 +1,18 @@
+[project]
+name = "ebr"
+version = "2025.01.08"
+description = "Embedding benchmark for retrieval"
+requires-python = ">=3.10"  # Because of NoneType
+dependencies = [
+    "numpy>=1.25",
+    "lightning>=2.1.1",
+    "beir>=1.0.1",
+    "sentence-transformers>=3.0.0",
+    "termcolor>=2.0.1",
+    "faiss-cpu",
+    "pydantic"
+]
+
+[project.urls]
+Homepage = "https://github.com/embedding-benchmark/ebr"
+Issues = "https://github.com/embedding-benchmark/ebr/issues"
