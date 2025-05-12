@@ -1,5 +1,17 @@
 [
     {
+        "model_name": "all-MiniLM-L12-v2",
+        "embd_dtype": "float32",
+        "embd_dim": 384,
+        "num_params": 33400000,
+        "max_tokens": 256,
+        "similarity": "cosine",
+        "query_instruct": null,
+        "corpus_instruct": null,
+        "reference": "https://huggingface.co/sentence-transformers/all-MiniLM-L12-v2",
+        "alias": null
+    },
+    {
         "model_name": "all-MiniLM-L6-v2",
         "embd_dtype": "float32",
         "embd_dim": 384,
@@ -12,6 +24,42 @@
         "alias": null
     },
     {
+        "model_name": "all-mpnet-base-v2",
+        "embd_dtype": "float32",
+        "embd_dim": 768,
+        "num_params": 109000000,
+        "max_tokens": 384,
+        "similarity": "cosine",
+        "query_instruct": null,
+        "corpus_instruct": null,
+        "reference": "https://huggingface.co/sentence-transformers/all-mpnet-base-v2",
+        "alias": null
+    },
+    {
+        "model_name": "BAAI/bge-base-en-v1.5",
+        "embd_dtype": "float32",
+        "embd_dim": 768,
+        "num_params": null,
+        "max_tokens": 512,
+        "similarity": "cosine",
+        "query_instruct": null,
+        "corpus_instruct": null,
+        "reference": "https://huggingface.co/BAAI/bge-base-en-v1.5",
+        "alias": null
+    },
+    {
+        "model_name": "BAAI/bge-large-en-v1.5",
+        "embd_dtype": "float32",
+        "embd_dim": 1024,
+        "num_params": null,
+        "max_tokens": 512,
+        "similarity": "cosine",
+        "query_instruct": null,
+        "corpus_instruct": null,
+        "reference": "https://huggingface.co/BAAI/bge-large-en-v1.5",
+        "alias": null
+    },
+    {
         "model_name": "BAAI/bge-m3",
         "embd_dtype": "float32",
         "embd_dim": 1024,
@@ -21,6 +69,78 @@
         "query_instruct": null,
         "corpus_instruct": null,
         "reference": "https://huggingface.co/BAAI/bge-m3",
+        "alias": null
+    },
+    {
+        "model_name": "BAAI/bge-m3-retromae",
+        "embd_dtype": "float32",
+        "embd_dim": null,
+        "num_params": null,
+        "max_tokens": 8192,
+        "similarity": "cosine",
+        "query_instruct": null,
+        "corpus_instruct": null,
+        "reference": "https://huggingface.co/BAAI/bge-m3-retromae",
+        "alias": null
+    },
+    {
+        "model_name": "BAAI/bge-m3-unsupervised",
+        "embd_dtype": "float32",
+        "embd_dim": 1024,
+        "num_params": null,
+        "max_tokens": 8192,
+        "similarity": "cosine",
+        "query_instruct": null,
+        "corpus_instruct": null,
+        "reference": "https://huggingface.co/BAAI/bge-m3-unsupervised",
+        "alias": null
+    },
+    {
+        "model_name": "BAAI/bge-small-en-v1.5",
+        "embd_dtype": "float32",
+        "embd_dim": 384,
+        "num_params": null,
+        "max_tokens": 512,
+        "similarity": "cosine",
+        "query_instruct": null,
+        "corpus_instruct": null,
+        "reference": "https://huggingface.co/BAAI/bge-small-en-v1.5",
+        "alias": null
+    },
+    {
+        "model_name": "embed-multilingual-v3.0",
+        "embd_dtype": "float32",
+        "embd_dim": 1024,
+        "num_params": null,
+        "max_tokens": 512,
+        "similarity": "cosine",
+        "query_instruct": null,
+        "corpus_instruct": null,
+        "reference": "https://docs.cohere.com/v2/docs/cohere-embed",
+        "alias": null
+    },
+    {
+        "model_name": "LaBSE",
+        "embd_dtype": "float32",
+        "embd_dim": 768,
+        "num_params": 471000000,
+        "max_tokens": 512,
+        "similarity": "cosine",
+        "query_instruct": null,
+        "corpus_instruct": null,
+        "reference": "https://huggingface.co/sentence-transformers/LaBSE",
+        "alias": null
+    },
+    {
+        "model_name": "multi-qa-MiniLM-L6-cos-v1",
+        "embd_dtype": "float32",
+        "embd_dim": 384,
+        "num_params": 22700000,
+        "max_tokens": 512,
+        "similarity": "cosine",
+        "query_instruct": null,
+        "corpus_instruct": null,
+        "reference": "https://huggingface.co/sentence-transformers/multi-qa-MiniLM-L6-cos-v1",
         "alias": null
     },
     {
