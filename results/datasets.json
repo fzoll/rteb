@@ -5,27 +5,33 @@
             "AILACasedocs",
             "AILAStatutes",
             "APPS",
-            "COVID_QA",
+            "CUREv1_en",
+            "CUREv1_es",
+            "CUREv1_fr",
             "ChatDoctor_HealthCareMagic",
-            "ConvFinQA",
+            "_Code1",
             "DS1000",
-            "DialogsumGerman",
-            "FiQAPersonalFinance",
+            "_EnglishFinance1",
+            "_EnglishFinance2",
+            "_EnglishFinance3",
+            "_EnglishFinance4",
+            "_EnglishHealthcare1",
             "FinQA",
             "FinanceBench",
+            "_French1",
             "FrenchBoolQ",
-            "FrenchOpenFiscalTexts",
-            "FrenchTriviaQAWikicontext",
-            "GermanLegalSentences",
+            "_FrenchLegal1",
+            "FreshStack",
+            "_German1",
+            "_GermanHealthcare1",
+            "_GermanLegal1",
             "HC3Finance",
-            "HealthCareGerman",
             "HumanEval",
-            "JapanLaw",
-            "JapaneseCoNaLa",
+            "_JapaneseCode1",
+            "_JapaneseLegal1",
             "LegalQuAD",
             "LegalSummarization",
             "MBPP",
-            "TAT_QA",
             "WikiSQL"
         ],
         "leaderboard": "Text"
@@ -35,8 +41,9 @@
         "datasets": [
             "AILACasedocs",
             "AILAStatutes",
-            "GermanLegalSentences",
-            "JapanLaw",
+            "_FrenchLegal1",
+            "_GermanLegal1",
+            "_JapaneseLegal1",
             "LegalQuAD",
             "LegalSummarization"
         ],
@@ -48,16 +55,18 @@
             "AILACasedocs",
             "AILAStatutes",
             "APPS",
-            "COVID_QA",
+            "CUREv1_en",
             "ChatDoctor_HealthCareMagic",
-            "ConvFinQA",
             "DS1000",
-            "FiQAPersonalFinance",
+            "_EnglishFinance1",
+            "_EnglishFinance2",
+            "_EnglishFinance3",
+            "_EnglishFinance4",
+            "_EnglishHealthcare1",
             "FinQA",
             "FinanceBench",
             "HC3Finance",
             "LegalSummarization",
-            "TAT_QA",
             "WikiSQL"
         ],
         "leaderboard": "Text"
@@ -66,9 +75,11 @@
         "name": "code",
         "datasets": [
             "APPS",
+            "_Code1",
             "DS1000",
+            "FreshStack",
             "HumanEval",
-            "JapaneseCoNaLa",
+            "_JapaneseCode1",
             "MBPP",
             "WikiSQL"
         ],
@@ -77,49 +88,60 @@
     {
         "name": "healthcare",
         "datasets": [
-            "COVID_QA",
+            "CUREv1_en",
+            "CUREv1_es",
+            "CUREv1_fr",
             "ChatDoctor_HealthCareMagic",
-            "HealthCareGerman"
+            "_EnglishHealthcare1",
+            "_GermanHealthcare1"
         ],
         "leaderboard": "Text"
     },
     {
-        "name": "finance",
+        "name": "espanol",
         "datasets": [
-            "ConvFinQA",
-            "FiQAPersonalFinance",
-            "FinQA",
-            "FinanceBench",
-            "FrenchOpenFiscalTexts",
-            "HC3Finance",
-            "TAT_QA"
-        ],
-        "leaderboard": "Text"
-    },
-    {
-        "name": "german",
-        "datasets": [
-            "DialogsumGerman",
-            "GermanLegalSentences",
-            "HealthCareGerman",
-            "LegalQuAD"
+            "CUREv1_es"
         ],
         "leaderboard": "Text"
     },
     {
         "name": "french",
         "datasets": [
+            "CUREv1_fr",
+            "_French1",
             "FrenchBoolQ",
-            "FrenchOpenFiscalTexts",
-            "FrenchTriviaQAWikicontext"
+            "_FrenchLegal1"
+        ],
+        "leaderboard": "Text"
+    },
+    {
+        "name": "finance",
+        "datasets": [
+            "_EnglishFinance1",
+            "_EnglishFinance2",
+            "_EnglishFinance3",
+            "_EnglishFinance4",
+            "FinQA",
+            "FinanceBench",
+            "HC3Finance"
+        ],
+        "leaderboard": "Text"
+    },
+    {
+        "name": "german",
+        "datasets": [
+            "_German1",
+            "_GermanHealthcare1",
+            "_GermanLegal1",
+            "LegalQuAD"
         ],
         "leaderboard": "Text"
     },
     {
         "name": "japanese",
         "datasets": [
-            "JapanLaw",
-            "JapaneseCoNaLa"
+            "_JapaneseCode1",
+            "_JapaneseLegal1"
         ],
         "leaderboard": "Text"
     }
