@@ -19,7 +19,6 @@
             "FinQA",
             "FinanceBench",
             "_French1",
-            "FrenchBoolQ",
             "_FrenchLegal1",
             "FreshStack",
             "_German1",
@@ -109,7 +108,6 @@
         "datasets": [
             "CUREv1_fr",
             "_French1",
-            "FrenchBoolQ",
             "_FrenchLegal1"
         ],
         "leaderboard": "Text"
