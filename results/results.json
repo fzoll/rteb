@@ -71,7 +71,7 @@
                 "precision_at_20": 0.25575,
                 "precision_at_50": 0.17065,
                 "precision_at_100": 0.11895,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -170,7 +170,7 @@
                 "precision_at_20": 0.13295,
                 "precision_at_50": 0.09668,
                 "precision_at_100": 0.07084,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -236,7 +236,7 @@
                 "precision_at_20": 0.16083,
                 "precision_at_50": 0.11507,
                 "precision_at_100": 0.08354,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -381,7 +381,7 @@
                 "precision_at_20": 0.02567,
                 "precision_at_50": 0.01547,
                 "precision_at_100": 0.00907,
-                "model_name": "BAAI/bge-m3-retromae",
+                "model_name": "bge-m3-retromae",
                 "embd_dim": null,
                 "embd_dtype": "float32"
             },
@@ -480,7 +480,7 @@
                 "precision_at_20": 0.04733,
                 "precision_at_50": 0.01987,
                 "precision_at_100": 0.00993,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -744,7 +744,7 @@
                 "precision_at_20": 0.04667,
                 "precision_at_50": 0.01947,
                 "precision_at_100": 0.00987,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -810,7 +810,7 @@
                 "precision_at_20": 0.04333,
                 "precision_at_50": 0.01907,
                 "precision_at_100": 0.00987,
-                "model_name": "BAAI/bge-small-en-v1.5",
+                "model_name": "bge-small-en-v1.5",
                 "embd_dim": 384,
                 "embd_dtype": "float32"
             },
@@ -843,7 +843,7 @@
                 "precision_at_20": 0.04767,
                 "precision_at_50": 0.0196,
                 "precision_at_100": 0.00987,
-                "model_name": "BAAI/bge-m3-unsupervised",
+                "model_name": "bge-m3-unsupervised",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -942,7 +942,7 @@
                 "precision_at_20": 0.046,
                 "precision_at_50": 0.0196,
                 "precision_at_100": 0.00987,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -1021,7 +1021,7 @@
                 "precision_at_20": 0.25805,
                 "precision_at_50": 0.17453,
                 "precision_at_100": 0.12148,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -1120,7 +1120,7 @@
                 "precision_at_20": 0.107,
                 "precision_at_50": 0.07845,
                 "precision_at_100": 0.05962,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -1186,7 +1186,7 @@
                 "precision_at_20": 0.1172,
                 "precision_at_50": 0.0858,
                 "precision_at_100": 0.06505,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -1297,7 +1297,7 @@
                 "precision_at_20": 0.04341,
                 "precision_at_50": 0.01831,
                 "precision_at_100": 0.00955,
-                "model_name": "BAAI/bge-m3-retromae",
+                "model_name": "bge-m3-retromae",
                 "embd_dim": null,
                 "embd_dtype": "float32"
             },
@@ -1396,7 +1396,7 @@
                 "precision_at_20": 0.04865,
                 "precision_at_50": 0.0197,
                 "precision_at_100": 0.00991,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -1660,7 +1660,7 @@
                 "precision_at_20": 0.03553,
                 "precision_at_50": 0.01617,
                 "precision_at_100": 0.00891,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -1726,7 +1726,7 @@
                 "precision_at_20": 0.03458,
                 "precision_at_50": 0.01544,
                 "precision_at_100": 0.00844,
-                "model_name": "BAAI/bge-small-en-v1.5",
+                "model_name": "bge-small-en-v1.5",
                 "embd_dim": 384,
                 "embd_dtype": "float32"
             },
@@ -1759,7 +1759,7 @@
                 "precision_at_20": 0.04946,
                 "precision_at_50": 0.01988,
                 "precision_at_100": 0.00999,
-                "model_name": "BAAI/bge-m3-unsupervised",
+                "model_name": "bge-m3-unsupervised",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -1858,7 +1858,7 @@
                 "precision_at_20": 0.04375,
                 "precision_at_50": 0.01847,
                 "precision_at_100": 0.00953,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -1937,7 +1937,7 @@
                 "precision_at_20": 0.29735,
                 "precision_at_50": 0.20201,
                 "precision_at_100": 0.14098,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -2036,7 +2036,7 @@
                 "precision_at_20": 0.3221,
                 "precision_at_50": 0.22212,
                 "precision_at_100": 0.15681,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -2102,7 +2102,7 @@
                 "precision_at_20": 0.33343,
                 "precision_at_50": 0.2278,
                 "precision_at_100": 0.15876,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -2214,7 +2214,7 @@
                 "precision_at_20": 0.03934,
                 "precision_at_50": 0.017,
                 "precision_at_100": 0.00892,
-                "model_name": "BAAI/bge-m3-retromae",
+                "model_name": "bge-m3-retromae",
                 "embd_dim": null,
                 "embd_dtype": "float32"
             },
@@ -2313,7 +2313,7 @@
                 "precision_at_20": 0.0494,
                 "precision_at_50": 0.01996,
                 "precision_at_100": 0.01001,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -2577,7 +2577,7 @@
                 "precision_at_20": 0.02603,
                 "precision_at_50": 0.01229,
                 "precision_at_100": 0.00681,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -2643,7 +2643,7 @@
                 "precision_at_20": 0.02558,
                 "precision_at_50": 0.01208,
                 "precision_at_100": 0.00672,
-                "model_name": "BAAI/bge-small-en-v1.5",
+                "model_name": "bge-small-en-v1.5",
                 "embd_dim": 384,
                 "embd_dtype": "float32"
             },
@@ -2676,7 +2676,7 @@
                 "precision_at_20": 0.04954,
                 "precision_at_50": 0.01998,
                 "precision_at_100": 0.01002,
-                "model_name": "BAAI/bge-m3-unsupervised",
+                "model_name": "bge-m3-unsupervised",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -2775,7 +2775,7 @@
                 "precision_at_20": 0.02659,
                 "precision_at_50": 0.01268,
                 "precision_at_100": 0.00704,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -2887,7 +2887,7 @@
                 "precision_at_20": 0.03903,
                 "precision_at_50": 0.01755,
                 "precision_at_100": 0.00937,
-                "model_name": "BAAI/bge-m3-retromae",
+                "model_name": "bge-m3-retromae",
                 "embd_dim": null,
                 "embd_dtype": "float32"
             },
@@ -2986,7 +2986,7 @@
                 "precision_at_20": 0.04628,
                 "precision_at_50": 0.01896,
                 "precision_at_100": 0.00974,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -3250,7 +3250,7 @@
                 "precision_at_20": 0.04405,
                 "precision_at_50": 0.01896,
                 "precision_at_100": 0.00974,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -3316,7 +3316,7 @@
                 "precision_at_20": 0.04424,
                 "precision_at_50": 0.01881,
                 "precision_at_100": 0.00974,
-                "model_name": "BAAI/bge-small-en-v1.5",
+                "model_name": "bge-small-en-v1.5",
                 "embd_dim": 384,
                 "embd_dtype": "float32"
             },
@@ -3349,7 +3349,7 @@
                 "precision_at_20": 0.0448,
                 "precision_at_50": 0.01881,
                 "precision_at_100": 0.00985,
-                "model_name": "BAAI/bge-m3-unsupervised",
+                "model_name": "bge-m3-unsupervised",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -3448,7 +3448,7 @@
                 "precision_at_20": 0.04461,
                 "precision_at_50": 0.01896,
                 "precision_at_100": 0.00978,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -3592,7 +3592,7 @@
                 "precision_at_20": 0.03481,
                 "precision_at_50": 0.01734,
                 "precision_at_100": 0.00962,
-                "model_name": "BAAI/bge-m3-retromae",
+                "model_name": "bge-m3-retromae",
                 "embd_dim": null,
                 "embd_dtype": "float32"
             },
@@ -3691,7 +3691,7 @@
                 "precision_at_20": 0.04114,
                 "precision_at_50": 0.01785,
                 "precision_at_100": 0.00968,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -3955,7 +3955,7 @@
                 "precision_at_20": 0.04652,
                 "precision_at_50": 0.01962,
                 "precision_at_100": 0.01,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -4021,7 +4021,7 @@
                 "precision_at_20": 0.04462,
                 "precision_at_50": 0.01937,
                 "precision_at_100": 0.01,
-                "model_name": "BAAI/bge-small-en-v1.5",
+                "model_name": "bge-small-en-v1.5",
                 "embd_dim": 384,
                 "embd_dtype": "float32"
             },
@@ -4054,7 +4054,7 @@
                 "precision_at_20": 0.04177,
                 "precision_at_50": 0.01835,
                 "precision_at_100": 0.00981,
-                "model_name": "BAAI/bge-m3-unsupervised",
+                "model_name": "bge-m3-unsupervised",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -4153,7 +4153,7 @@
                 "precision_at_20": 0.04525,
                 "precision_at_50": 0.01975,
                 "precision_at_100": 0.00994,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -4265,7 +4265,7 @@
                 "precision_at_20": 0.01409,
                 "precision_at_50": 0.00653,
                 "precision_at_100": 0.00368,
-                "model_name": "BAAI/bge-m3-retromae",
+                "model_name": "bge-m3-retromae",
                 "embd_dim": null,
                 "embd_dtype": "float32"
             },
@@ -4364,7 +4364,7 @@
                 "precision_at_20": 0.03008,
                 "precision_at_50": 0.01364,
                 "precision_at_100": 0.00744,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -4628,7 +4628,7 @@
                 "precision_at_20": 0.01728,
                 "precision_at_50": 0.00853,
                 "precision_at_100": 0.00495,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -4694,7 +4694,7 @@
                 "precision_at_20": 0.01894,
                 "precision_at_50": 0.00916,
                 "precision_at_100": 0.00526,
-                "model_name": "BAAI/bge-small-en-v1.5",
+                "model_name": "bge-small-en-v1.5",
                 "embd_dim": 384,
                 "embd_dtype": "float32"
             },
@@ -4727,7 +4727,7 @@
                 "precision_at_20": 0.03064,
                 "precision_at_50": 0.01387,
                 "precision_at_100": 0.00739,
-                "model_name": "BAAI/bge-m3-unsupervised",
+                "model_name": "bge-m3-unsupervised",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -4826,7 +4826,7 @@
                 "precision_at_20": 0.02264,
                 "precision_at_50": 0.01045,
                 "precision_at_100": 0.00587,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -4938,7 +4938,7 @@
                 "precision_at_20": 0.02398,
                 "precision_at_50": 0.01222,
                 "precision_at_100": 0.00705,
-                "model_name": "BAAI/bge-m3-retromae",
+                "model_name": "bge-m3-retromae",
                 "embd_dim": null,
                 "embd_dtype": "float32"
             },
@@ -5037,7 +5037,7 @@
                 "precision_at_20": 0.04591,
                 "precision_at_50": 0.01931,
                 "precision_at_100": 0.00985,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -5301,7 +5301,7 @@
                 "precision_at_20": 0.02667,
                 "precision_at_50": 0.01269,
                 "precision_at_100": 0.00742,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -5367,7 +5367,7 @@
                 "precision_at_20": 0.02591,
                 "precision_at_50": 0.01213,
                 "precision_at_100": 0.00714,
-                "model_name": "BAAI/bge-small-en-v1.5",
+                "model_name": "bge-small-en-v1.5",
                 "embd_dim": 384,
                 "embd_dtype": "float32"
             },
@@ -5400,7 +5400,7 @@
                 "precision_at_20": 0.0443,
                 "precision_at_50": 0.01875,
                 "precision_at_100": 0.00976,
-                "model_name": "BAAI/bge-m3-unsupervised",
+                "model_name": "bge-m3-unsupervised",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -5499,7 +5499,7 @@
                 "precision_at_20": 0.02849,
                 "precision_at_50": 0.01351,
                 "precision_at_100": 0.00776,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -5611,7 +5611,7 @@
                 "precision_at_20": 0.02505,
                 "precision_at_50": 0.01176,
                 "precision_at_100": 0.0067,
-                "model_name": "BAAI/bge-m3-retromae",
+                "model_name": "bge-m3-retromae",
                 "embd_dim": null,
                 "embd_dtype": "float32"
             },
@@ -5710,7 +5710,7 @@
                 "precision_at_20": 0.04072,
                 "precision_at_50": 0.01775,
                 "precision_at_100": 0.0093,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -5974,7 +5974,7 @@
                 "precision_at_20": 0.02592,
                 "precision_at_50": 0.012,
                 "precision_at_100": 0.00658,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -6040,7 +6040,7 @@
                 "precision_at_20": 0.02322,
                 "precision_at_50": 0.01095,
                 "precision_at_100": 0.00621,
-                "model_name": "BAAI/bge-small-en-v1.5",
+                "model_name": "bge-small-en-v1.5",
                 "embd_dim": 384,
                 "embd_dtype": "float32"
             },
@@ -6073,7 +6073,7 @@
                 "precision_at_20": 0.03865,
                 "precision_at_50": 0.01707,
                 "precision_at_100": 0.00906,
-                "model_name": "BAAI/bge-m3-unsupervised",
+                "model_name": "bge-m3-unsupervised",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -6172,7 +6172,7 @@
                 "precision_at_20": 0.02565,
                 "precision_at_50": 0.01205,
                 "precision_at_100": 0.00678,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -6317,7 +6317,7 @@
                 "precision_at_20": 0.012,
                 "precision_at_50": 0.0063,
                 "precision_at_100": 0.00385,
-                "model_name": "BAAI/bge-m3-retromae",
+                "model_name": "bge-m3-retromae",
                 "embd_dim": null,
                 "embd_dtype": "float32"
             },
@@ -6416,7 +6416,7 @@
                 "precision_at_20": 0.03823,
                 "precision_at_50": 0.01684,
                 "precision_at_100": 0.00886,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -6680,7 +6680,7 @@
                 "precision_at_20": 0.03707,
                 "precision_at_50": 0.0165,
                 "precision_at_100": 0.00882,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -6746,7 +6746,7 @@
                 "precision_at_20": 0.03613,
                 "precision_at_50": 0.01608,
                 "precision_at_100": 0.00856,
-                "model_name": "BAAI/bge-small-en-v1.5",
+                "model_name": "bge-small-en-v1.5",
                 "embd_dim": 384,
                 "embd_dtype": "float32"
             },
@@ -6779,7 +6779,7 @@
                 "precision_at_20": 0.03434,
                 "precision_at_50": 0.01547,
                 "precision_at_100": 0.0084,
-                "model_name": "BAAI/bge-m3-unsupervised",
+                "model_name": "bge-m3-unsupervised",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -6878,7 +6878,7 @@
                 "precision_at_20": 0.03871,
                 "precision_at_50": 0.01692,
                 "precision_at_100": 0.00892,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -7056,7 +7056,7 @@
                 "precision_at_20": 0.067,
                 "precision_at_50": 0.0452,
                 "precision_at_100": 0.0312,
-                "model_name": "BAAI/bge-m3-retromae",
+                "model_name": "bge-m3-retromae",
                 "embd_dim": null,
                 "embd_dtype": "float32"
             },
@@ -7155,7 +7155,7 @@
                 "precision_at_20": 0.087,
                 "precision_at_50": 0.052,
                 "precision_at_100": 0.0342,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -7419,7 +7419,7 @@
                 "precision_at_20": 0.072,
                 "precision_at_50": 0.0496,
                 "precision_at_100": 0.0334,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -7485,7 +7485,7 @@
                 "precision_at_20": 0.064,
                 "precision_at_50": 0.0448,
                 "precision_at_100": 0.0316,
-                "model_name": "BAAI/bge-small-en-v1.5",
+                "model_name": "bge-small-en-v1.5",
                 "embd_dim": 384,
                 "embd_dtype": "float32"
             },
@@ -7518,7 +7518,7 @@
                 "precision_at_20": 0.092,
                 "precision_at_50": 0.054,
                 "precision_at_100": 0.034,
-                "model_name": "BAAI/bge-m3-unsupervised",
+                "model_name": "bge-m3-unsupervised",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -7617,7 +7617,7 @@
                 "precision_at_20": 0.078,
                 "precision_at_50": 0.0492,
                 "precision_at_100": 0.0336,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -7728,7 +7728,7 @@
                 "precision_at_20": 0.03819,
                 "precision_at_50": 0.0166,
                 "precision_at_100": 0.00873,
-                "model_name": "BAAI/bge-m3-retromae",
+                "model_name": "bge-m3-retromae",
                 "embd_dim": null,
                 "embd_dtype": "float32"
             },
@@ -7827,7 +7827,7 @@
                 "precision_at_20": 0.04637,
                 "precision_at_50": 0.01911,
                 "precision_at_100": 0.00968,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -8091,7 +8091,7 @@
                 "precision_at_20": 0.04295,
                 "precision_at_50": 0.01813,
                 "precision_at_100": 0.00937,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -8157,7 +8157,7 @@
                 "precision_at_20": 0.04354,
                 "precision_at_50": 0.01823,
                 "precision_at_100": 0.00937,
-                "model_name": "BAAI/bge-small-en-v1.5",
+                "model_name": "bge-small-en-v1.5",
                 "embd_dim": 384,
                 "embd_dtype": "float32"
             },
@@ -8190,7 +8190,7 @@
                 "precision_at_20": 0.04343,
                 "precision_at_50": 0.01824,
                 "precision_at_100": 0.00937,
-                "model_name": "BAAI/bge-m3-unsupervised",
+                "model_name": "bge-m3-unsupervised",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -8289,7 +8289,7 @@
                 "precision_at_20": 0.04542,
                 "precision_at_50": 0.01882,
                 "precision_at_100": 0.00957,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -8434,7 +8434,7 @@
                 "precision_at_20": 0.04859,
                 "precision_at_50": 0.02317,
                 "precision_at_100": 0.01299,
-                "model_name": "BAAI/bge-m3-retromae",
+                "model_name": "bge-m3-retromae",
                 "embd_dim": null,
                 "embd_dtype": "float32"
             },
@@ -8533,7 +8533,7 @@
                 "precision_at_20": 0.0618,
                 "precision_at_50": 0.02817,
                 "precision_at_100": 0.01475,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -8797,7 +8797,7 @@
                 "precision_at_20": 0.05898,
                 "precision_at_50": 0.02711,
                 "precision_at_100": 0.01447,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -8863,7 +8863,7 @@
                 "precision_at_20": 0.05739,
                 "precision_at_50": 0.02627,
                 "precision_at_100": 0.0144,
-                "model_name": "BAAI/bge-small-en-v1.5",
+                "model_name": "bge-small-en-v1.5",
                 "embd_dim": 384,
                 "embd_dtype": "float32"
             },
@@ -8896,7 +8896,7 @@
                 "precision_at_20": 0.0581,
                 "precision_at_50": 0.02683,
                 "precision_at_100": 0.01437,
-                "model_name": "BAAI/bge-m3-unsupervised",
+                "model_name": "bge-m3-unsupervised",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -8995,7 +8995,7 @@
                 "precision_at_20": 0.0588,
                 "precision_at_50": 0.0269,
                 "precision_at_100": 0.01447,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -9140,7 +9140,7 @@
                 "precision_at_20": 0.01834,
                 "precision_at_50": 0.00884,
                 "precision_at_100": 0.00494,
-                "model_name": "BAAI/bge-m3-retromae",
+                "model_name": "bge-m3-retromae",
                 "embd_dim": null,
                 "embd_dtype": "float32"
             },
@@ -9239,7 +9239,7 @@
                 "precision_at_20": 0.03589,
                 "precision_at_50": 0.01628,
                 "precision_at_100": 0.00872,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -9503,7 +9503,7 @@
                 "precision_at_20": 0.03609,
                 "precision_at_50": 0.01664,
                 "precision_at_100": 0.00884,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -9569,7 +9569,7 @@
                 "precision_at_20": 0.03266,
                 "precision_at_50": 0.01482,
                 "precision_at_100": 0.00806,
-                "model_name": "BAAI/bge-small-en-v1.5",
+                "model_name": "bge-small-en-v1.5",
                 "embd_dim": 384,
                 "embd_dtype": "float32"
             },
@@ -9602,7 +9602,7 @@
                 "precision_at_20": 0.03579,
                 "precision_at_50": 0.01632,
                 "precision_at_100": 0.00863,
-                "model_name": "BAAI/bge-m3-unsupervised",
+                "model_name": "bge-m3-unsupervised",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -9701,7 +9701,7 @@
                 "precision_at_20": 0.03333,
                 "precision_at_50": 0.01541,
                 "precision_at_100": 0.00834,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -9846,7 +9846,7 @@
                 "precision_at_20": 0.01198,
                 "precision_at_50": 0.00633,
                 "precision_at_100": 0.0038,
-                "model_name": "BAAI/bge-m3-retromae",
+                "model_name": "bge-m3-retromae",
                 "embd_dim": null,
                 "embd_dtype": "float32"
             },
@@ -9945,7 +9945,7 @@
                 "precision_at_20": 0.04666,
                 "precision_at_50": 0.0193,
                 "precision_at_100": 0.00979,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -10209,7 +10209,7 @@
                 "precision_at_20": 0.03978,
                 "precision_at_50": 0.01726,
                 "precision_at_100": 0.00907,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -10275,7 +10275,7 @@
                 "precision_at_20": 0.03073,
                 "precision_at_50": 0.01376,
                 "precision_at_100": 0.00748,
-                "model_name": "BAAI/bge-small-en-v1.5",
+                "model_name": "bge-small-en-v1.5",
                 "embd_dim": 384,
                 "embd_dtype": "float32"
             },
@@ -10308,7 +10308,7 @@
                 "precision_at_20": 0.03816,
                 "precision_at_50": 0.01671,
                 "precision_at_100": 0.00884,
-                "model_name": "BAAI/bge-m3-unsupervised",
+                "model_name": "bge-m3-unsupervised",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -10407,7 +10407,7 @@
                 "precision_at_20": 0.04191,
                 "precision_at_50": 0.01784,
                 "precision_at_100": 0.00928,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -10552,7 +10552,7 @@
                 "precision_at_20": 0.028,
                 "precision_at_50": 0.0146,
                 "precision_at_100": 0.0085,
-                "model_name": "BAAI/bge-m3-retromae",
+                "model_name": "bge-m3-retromae",
                 "embd_dim": null,
                 "embd_dtype": "float32"
             },
@@ -10651,7 +10651,7 @@
                 "precision_at_20": 0.03525,
                 "precision_at_50": 0.0168,
                 "precision_at_100": 0.0092,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -10915,7 +10915,7 @@
                 "precision_at_20": 0.016,
                 "precision_at_50": 0.0104,
                 "precision_at_100": 0.00725,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -10981,7 +10981,7 @@
                 "precision_at_20": 0.0145,
                 "precision_at_50": 0.0098,
                 "precision_at_100": 0.007,
-                "model_name": "BAAI/bge-small-en-v1.5",
+                "model_name": "bge-small-en-v1.5",
                 "embd_dim": 384,
                 "embd_dtype": "float32"
             },
@@ -11014,7 +11014,7 @@
                 "precision_at_20": 0.0355,
                 "precision_at_50": 0.0165,
                 "precision_at_100": 0.0092,
-                "model_name": "BAAI/bge-m3-unsupervised",
+                "model_name": "bge-m3-unsupervised",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -11113,7 +11113,7 @@
                 "precision_at_20": 0.01775,
                 "precision_at_50": 0.0104,
                 "precision_at_100": 0.0074,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -11258,7 +11258,7 @@
                 "precision_at_20": 0.03163,
                 "precision_at_50": 0.01499,
                 "precision_at_100": 0.00837,
-                "model_name": "BAAI/bge-m3-retromae",
+                "model_name": "bge-m3-retromae",
                 "embd_dim": null,
                 "embd_dtype": "float32"
             },
@@ -11357,7 +11357,7 @@
                 "precision_at_20": 0.03598,
                 "precision_at_50": 0.01626,
                 "precision_at_100": 0.00877,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -11621,7 +11621,7 @@
                 "precision_at_20": 0.03383,
                 "precision_at_50": 0.01589,
                 "precision_at_100": 0.00856,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -11687,7 +11687,7 @@
                 "precision_at_20": 0.03273,
                 "precision_at_50": 0.01534,
                 "precision_at_100": 0.00851,
-                "model_name": "BAAI/bge-small-en-v1.5",
+                "model_name": "bge-small-en-v1.5",
                 "embd_dim": 384,
                 "embd_dtype": "float32"
             },
@@ -11720,7 +11720,7 @@
                 "precision_at_20": 0.03502,
                 "precision_at_50": 0.01591,
                 "precision_at_100": 0.00868,
-                "model_name": "BAAI/bge-m3-unsupervised",
+                "model_name": "bge-m3-unsupervised",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -11819,7 +11819,7 @@
                 "precision_at_20": 0.03357,
                 "precision_at_50": 0.01575,
                 "precision_at_100": 0.00864,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -11930,7 +11930,7 @@
                 "precision_at_20": 0.01624,
                 "precision_at_50": 0.00787,
                 "precision_at_100": 0.00453,
-                "model_name": "BAAI/bge-m3-retromae",
+                "model_name": "bge-m3-retromae",
                 "embd_dim": null,
                 "embd_dtype": "float32"
             },
@@ -11996,7 +11996,7 @@
                 "precision_at_20": 0.04531,
                 "precision_at_50": 0.01874,
                 "precision_at_100": 0.00953,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -12227,7 +12227,7 @@
                 "precision_at_20": 0.04356,
                 "precision_at_50": 0.01793,
                 "precision_at_100": 0.00912,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -12293,7 +12293,7 @@
                 "precision_at_20": 0.04327,
                 "precision_at_50": 0.01786,
                 "precision_at_100": 0.00911,
-                "model_name": "BAAI/bge-small-en-v1.5",
+                "model_name": "bge-small-en-v1.5",
                 "embd_dim": 384,
                 "embd_dtype": "float32"
             },
@@ -12326,7 +12326,7 @@
                 "precision_at_20": 0.0452,
                 "precision_at_50": 0.01871,
                 "precision_at_100": 0.00951,
-                "model_name": "BAAI/bge-m3-unsupervised",
+                "model_name": "bge-m3-unsupervised",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -12425,7 +12425,7 @@
                 "precision_at_20": 0.04396,
                 "precision_at_50": 0.01811,
                 "precision_at_100": 0.00921,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -12537,7 +12537,7 @@
                 "precision_at_20": 0.03104,
                 "precision_at_50": 0.0155,
                 "precision_at_100": 0.00921,
-                "model_name": "BAAI/bge-m3-retromae",
+                "model_name": "bge-m3-retromae",
                 "embd_dim": null,
                 "embd_dtype": "float32"
             },
@@ -12636,7 +12636,7 @@
                 "precision_at_20": 0.03642,
                 "precision_at_50": 0.01722,
                 "precision_at_100": 0.00967,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -12900,7 +12900,7 @@
                 "precision_at_20": 0.03649,
                 "precision_at_50": 0.01706,
                 "precision_at_100": 0.00953,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -12966,7 +12966,7 @@
                 "precision_at_20": 0.03609,
                 "precision_at_50": 0.01715,
                 "precision_at_100": 0.00957,
-                "model_name": "BAAI/bge-small-en-v1.5",
+                "model_name": "bge-small-en-v1.5",
                 "embd_dim": 384,
                 "embd_dtype": "float32"
             },
@@ -12999,7 +12999,7 @@
                 "precision_at_20": 0.03573,
                 "precision_at_50": 0.01698,
                 "precision_at_100": 0.00968,
-                "model_name": "BAAI/bge-m3-unsupervised",
+                "model_name": "bge-m3-unsupervised",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -13098,7 +13098,7 @@
                 "precision_at_20": 0.03581,
                 "precision_at_50": 0.01689,
                 "precision_at_100": 0.00949,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -13176,7 +13176,7 @@
                 "precision_at_20": 0.06287,
                 "precision_at_50": 0.03726,
                 "precision_at_100": 0.02384,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -13275,7 +13275,7 @@
                 "precision_at_20": 0.06451,
                 "precision_at_50": 0.03875,
                 "precision_at_100": 0.0253,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -13341,7 +13341,7 @@
                 "precision_at_20": 0.06778,
                 "precision_at_50": 0.04045,
                 "precision_at_100": 0.02624,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -13453,7 +13453,7 @@
                 "precision_at_20": 0.03387,
                 "precision_at_50": 0.01571,
                 "precision_at_100": 0.00839,
-                "model_name": "BAAI/bge-m3-retromae",
+                "model_name": "bge-m3-retromae",
                 "embd_dim": null,
                 "embd_dtype": "float32"
             },
@@ -13552,7 +13552,7 @@
                 "precision_at_20": 0.0379,
                 "precision_at_50": 0.01664,
                 "precision_at_100": 0.00887,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -13816,7 +13816,7 @@
                 "precision_at_20": 0.0341,
                 "precision_at_50": 0.01654,
                 "precision_at_100": 0.00882,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -13882,7 +13882,7 @@
                 "precision_at_20": 0.03272,
                 "precision_at_50": 0.01576,
                 "precision_at_100": 0.00862,
-                "model_name": "BAAI/bge-small-en-v1.5",
+                "model_name": "bge-small-en-v1.5",
                 "embd_dim": 384,
                 "embd_dtype": "float32"
             },
@@ -13915,7 +13915,7 @@
                 "precision_at_20": 0.03652,
                 "precision_at_50": 0.01613,
                 "precision_at_100": 0.00882,
-                "model_name": "BAAI/bge-m3-unsupervised",
+                "model_name": "bge-m3-unsupervised",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -14014,7 +14014,7 @@
                 "precision_at_20": 0.03629,
                 "precision_at_50": 0.0159,
                 "precision_at_100": 0.00896,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -14159,7 +14159,7 @@
                 "precision_at_20": 0.01566,
                 "precision_at_50": 0.00916,
                 "precision_at_100": 0.00578,
-                "model_name": "BAAI/bge-m3-retromae",
+                "model_name": "bge-m3-retromae",
                 "embd_dim": null,
                 "embd_dtype": "float32"
             },
@@ -14258,7 +14258,7 @@
                 "precision_at_20": 0.04108,
                 "precision_at_50": 0.01817,
                 "precision_at_100": 0.00961,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -14522,7 +14522,7 @@
                 "precision_at_20": 0.04036,
                 "precision_at_50": 0.01788,
                 "precision_at_100": 0.00942,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -14588,7 +14588,7 @@
                 "precision_at_20": 0.03867,
                 "precision_at_50": 0.01773,
                 "precision_at_100": 0.00945,
-                "model_name": "BAAI/bge-small-en-v1.5",
+                "model_name": "bge-small-en-v1.5",
                 "embd_dim": 384,
                 "embd_dtype": "float32"
             },
@@ -14621,7 +14621,7 @@
                 "precision_at_20": 0.03819,
                 "precision_at_50": 0.01817,
                 "precision_at_100": 0.00954,
-                "model_name": "BAAI/bge-m3-unsupervised",
+                "model_name": "bge-m3-unsupervised",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -14720,7 +14720,7 @@
                 "precision_at_20": 0.04434,
                 "precision_at_50": 0.01889,
                 "precision_at_100": 0.00969,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -14832,7 +14832,7 @@
                 "precision_at_20": 0.01446,
                 "precision_at_50": 0.00684,
                 "precision_at_100": 0.00381,
-                "model_name": "BAAI/bge-m3-retromae",
+                "model_name": "bge-m3-retromae",
                 "embd_dim": null,
                 "embd_dtype": "float32"
             },
@@ -14898,7 +14898,7 @@
                 "precision_at_20": 0.03057,
                 "precision_at_50": 0.01363,
                 "precision_at_100": 0.00728,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -15129,7 +15129,7 @@
                 "precision_at_20": 0.02996,
                 "precision_at_50": 0.01345,
                 "precision_at_100": 0.00721,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -15195,7 +15195,7 @@
                 "precision_at_20": 0.02905,
                 "precision_at_50": 0.01304,
                 "precision_at_100": 0.00703,
-                "model_name": "BAAI/bge-small-en-v1.5",
+                "model_name": "bge-small-en-v1.5",
                 "embd_dim": 384,
                 "embd_dtype": "float32"
             },
@@ -15228,7 +15228,7 @@
                 "precision_at_20": 0.03064,
                 "precision_at_50": 0.01354,
                 "precision_at_100": 0.00722,
-                "model_name": "BAAI/bge-m3-unsupervised",
+                "model_name": "bge-m3-unsupervised",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -15294,7 +15294,7 @@
                 "precision_at_20": 0.03129,
                 "precision_at_50": 0.01392,
                 "precision_at_100": 0.00744,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -15406,7 +15406,7 @@
                 "precision_at_20": 0.02208,
                 "precision_at_50": 0.01077,
                 "precision_at_100": 0.00617,
-                "model_name": "BAAI/bge-m3-retromae",
+                "model_name": "bge-m3-retromae",
                 "embd_dim": null,
                 "embd_dtype": "float32"
             },
@@ -15505,7 +15505,7 @@
                 "precision_at_20": 0.04285,
                 "precision_at_50": 0.01823,
                 "precision_at_100": 0.00948,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -15769,7 +15769,7 @@
                 "precision_at_20": 0.04305,
                 "precision_at_50": 0.01846,
                 "precision_at_100": 0.00956,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -15835,7 +15835,7 @@
                 "precision_at_20": 0.04159,
                 "precision_at_50": 0.01823,
                 "precision_at_100": 0.00946,
-                "model_name": "BAAI/bge-small-en-v1.5",
+                "model_name": "bge-small-en-v1.5",
                 "embd_dim": 384,
                 "embd_dtype": "float32"
             },
@@ -15868,7 +15868,7 @@
                 "precision_at_20": 0.04162,
                 "precision_at_50": 0.01778,
                 "precision_at_100": 0.00929,
-                "model_name": "BAAI/bge-m3-unsupervised",
+                "model_name": "bge-m3-unsupervised",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -15967,7 +15967,7 @@
                 "precision_at_20": 0.04486,
                 "precision_at_50": 0.01899,
                 "precision_at_100": 0.00974,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -16111,7 +16111,7 @@
                 "precision_at_20": 0.02546,
                 "precision_at_50": 0.01236,
                 "precision_at_100": 0.00704,
-                "model_name": "BAAI/bge-m3-retromae",
+                "model_name": "bge-m3-retromae",
                 "embd_dim": null,
                 "embd_dtype": "float32"
             },
@@ -16210,7 +16210,7 @@
                 "precision_at_20": 0.04625,
                 "precision_at_50": 0.01947,
                 "precision_at_100": 0.00988,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -16474,7 +16474,7 @@
                 "precision_at_20": 0.04779,
                 "precision_at_50": 0.01967,
                 "precision_at_100": 0.00988,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -16540,7 +16540,7 @@
                 "precision_at_20": 0.0462,
                 "precision_at_50": 0.0191,
                 "precision_at_100": 0.00977,
-                "model_name": "BAAI/bge-small-en-v1.5",
+                "model_name": "bge-small-en-v1.5",
                 "embd_dim": 384,
                 "embd_dtype": "float32"
             },
@@ -16573,7 +16573,7 @@
                 "precision_at_20": 0.04605,
                 "precision_at_50": 0.0191,
                 "precision_at_100": 0.00971,
-                "model_name": "BAAI/bge-m3-unsupervised",
+                "model_name": "bge-m3-unsupervised",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -16672,7 +16672,7 @@
                 "precision_at_20": 0.04769,
                 "precision_at_50": 0.01947,
                 "precision_at_100": 0.00982,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -16784,7 +16784,7 @@
                 "precision_at_20": 0.04366,
                 "precision_at_50": 0.01902,
                 "precision_at_100": 0.01009,
-                "model_name": "BAAI/bge-m3-retromae",
+                "model_name": "bge-m3-retromae",
                 "embd_dim": null,
                 "embd_dtype": "float32"
             },
@@ -16883,7 +16883,7 @@
                 "precision_at_20": 0.04802,
                 "precision_at_50": 0.02061,
                 "precision_at_100": 0.01079,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -17147,7 +17147,7 @@
                 "precision_at_20": 0.03205,
                 "precision_at_50": 0.01456,
                 "precision_at_100": 0.00795,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -17213,7 +17213,7 @@
                 "precision_at_20": 0.03038,
                 "precision_at_50": 0.01383,
                 "precision_at_100": 0.00763,
-                "model_name": "BAAI/bge-small-en-v1.5",
+                "model_name": "bge-small-en-v1.5",
                 "embd_dim": 384,
                 "embd_dtype": "float32"
             },
@@ -17246,7 +17246,7 @@
                 "precision_at_20": 0.05049,
                 "precision_at_50": 0.02157,
                 "precision_at_100": 0.01118,
-                "model_name": "BAAI/bge-m3-unsupervised",
+                "model_name": "bge-m3-unsupervised",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -17345,7 +17345,7 @@
                 "precision_at_20": 0.03292,
                 "precision_at_50": 0.01492,
                 "precision_at_100": 0.00815,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -17490,7 +17490,7 @@
                 "precision_at_20": 0.00355,
                 "precision_at_50": 0.00259,
                 "precision_at_100": 0.00198,
-                "model_name": "BAAI/bge-m3-retromae",
+                "model_name": "bge-m3-retromae",
                 "embd_dim": null,
                 "embd_dtype": "float32"
             },
@@ -17589,7 +17589,7 @@
                 "precision_at_20": 0.04564,
                 "precision_at_50": 0.02426,
                 "precision_at_100": 0.01496,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -17853,7 +17853,7 @@
                 "precision_at_20": 0.02073,
                 "precision_at_50": 0.01106,
                 "precision_at_100": 0.00696,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -17919,7 +17919,7 @@
                 "precision_at_20": 0.01921,
                 "precision_at_50": 0.01043,
                 "precision_at_100": 0.00657,
-                "model_name": "BAAI/bge-small-en-v1.5",
+                "model_name": "bge-small-en-v1.5",
                 "embd_dim": 384,
                 "embd_dtype": "float32"
             },
@@ -17952,7 +17952,7 @@
                 "precision_at_20": 0.04172,
                 "precision_at_50": 0.02207,
                 "precision_at_100": 0.01367,
-                "model_name": "BAAI/bge-m3-unsupervised",
+                "model_name": "bge-m3-unsupervised",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -18051,7 +18051,7 @@
                 "precision_at_20": 0.02232,
                 "precision_at_50": 0.01167,
                 "precision_at_100": 0.00726,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
@@ -18229,7 +18229,7 @@
                 "precision_at_20": 0.055,
                 "precision_at_50": 0.0448,
                 "precision_at_100": 0.0434,
-                "model_name": "BAAI/bge-m3-retromae",
+                "model_name": "bge-m3-retromae",
                 "embd_dim": null,
                 "embd_dtype": "float32"
             },
@@ -18328,7 +18328,7 @@
                 "precision_at_20": 0.11,
                 "precision_at_50": 0.0692,
                 "precision_at_100": 0.0434,
-                "model_name": "BAAI/bge-m3",
+                "model_name": "bge-m3",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -18592,7 +18592,7 @@
                 "precision_at_20": 0.096,
                 "precision_at_50": 0.0656,
                 "precision_at_100": 0.0434,
-                "model_name": "BAAI/bge-base-en-v1.5",
+                "model_name": "bge-base-en-v1.5",
                 "embd_dim": 768,
                 "embd_dtype": "float32"
             },
@@ -18658,7 +18658,7 @@
                 "precision_at_20": 0.086,
                 "precision_at_50": 0.0668,
                 "precision_at_100": 0.0434,
-                "model_name": "BAAI/bge-small-en-v1.5",
+                "model_name": "bge-small-en-v1.5",
                 "embd_dim": 384,
                 "embd_dtype": "float32"
             },
@@ -18691,7 +18691,7 @@
                 "precision_at_20": 0.099,
                 "precision_at_50": 0.0696,
                 "precision_at_100": 0.0434,
-                "model_name": "BAAI/bge-m3-unsupervised",
+                "model_name": "bge-m3-unsupervised",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             },
@@ -18790,7 +18790,7 @@
                 "precision_at_20": 0.087,
                 "precision_at_50": 0.068,
                 "precision_at_100": 0.0434,
-                "model_name": "BAAI/bge-large-en-v1.5",
+                "model_name": "bge-large-en-v1.5",
                 "embd_dim": 1024,
                 "embd_dtype": "float32"
             }
