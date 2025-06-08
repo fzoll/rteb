@@ -1,0 +1,26 @@
+[
+  {
+    "file_path": "ebr/models/openai.py",
+    "line_number": 67,
+    "model_name": "text-embedding-3-large",
+    "embd_dim": 3072
+  },
+  {
+    "file_path": "ebr/models/openai.py",
+    "line_number": 78,
+    "model_name": "text-embedding-3-large",
+    "embd_dim": 512
+  },
+  {
+    "file_path": "ebr/models/openai.py",
+    "line_number": 89,
+    "model_name": "text-embedding-3-small",
+    "embd_dim": 1536
+  },
+  {
+    "file_path": "ebr/models/openai.py",
+    "line_number": 100,
+    "model_name": "text-embedding-3-small",
+    "embd_dim": 512
+  }
+]
