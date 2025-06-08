@@ -6,7 +6,6 @@
             "AILAStatutes",
             "APPS",
             "CUREv1_en",
-            "CUREv1_es",
             "CUREv1_fr",
             "ChatDoctor_HealthCareMagic",
             "_Code1",
@@ -88,18 +87,10 @@
         "name": "healthcare",
         "datasets": [
             "CUREv1_en",
-            "CUREv1_es",
             "CUREv1_fr",
             "ChatDoctor_HealthCareMagic",
             "_EnglishHealthcare1",
             "_GermanHealthcare1"
-        ],
-        "leaderboard": "Text"
-    },
-    {
-        "name": "espanol",
-        "datasets": [
-            "CUREv1_es"
         ],
         "leaderboard": "Text"
     },
