@@ -1,6 +1,6 @@
 [
     {
-        "model_name": "sentence-transformers/all-MiniLM-L12-v2",
+        "model_name": "all-MiniLM-L12-v2",
         "embd_dtype": "float32",
         "embd_dim": 384,
         "num_params": 33400000,
@@ -24,7 +24,7 @@
         "alias": null
     },
     {
-        "model_name": "sentence-transformers/all-mpnet-base-v2",
+        "model_name": "all-mpnet-base-v2",
         "embd_dtype": "float32",
         "embd_dim": 768,
         "num_params": 109000000,
@@ -108,6 +108,18 @@
         "alias": null
     },
     {
+        "model_name": "e5-mistral-7b-instruct",
+        "embd_dtype": "float32",
+        "embd_dim": 4096,
+        "num_params": null,
+        "max_tokens": null,
+        "similarity": "cosine",
+        "query_instruct": null,
+        "corpus_instruct": null,
+        "reference": "https://huggingface.co/intfloat/e5-mistral-7b-instruct",
+        "alias": null
+    },
+    {
         "model_name": "embed-multilingual-v3.0",
         "embd_dtype": "float32",
         "embd_dim": 1024,
@@ -144,7 +156,7 @@
         "alias": null
     },
     {
-        "model_name": "jinaai/jina-embeddings-v2-base-en",
+        "model_name": "jina-embeddings-v2-base-en",
         "embd_dtype": "float32",
         "embd_dim": 768,
         "num_params": 137000000,
@@ -156,7 +168,7 @@
         "alias": null
     },
     {
-        "model_name": "jinaai/jina-embeddings-v2-small-en",
+        "model_name": "jina-embeddings-v2-small-en",
         "embd_dtype": "float32",
         "embd_dim": 512,
         "num_params": 32700000,
@@ -168,7 +180,7 @@
         "alias": null
     },
     {
-        "model_name": "sentence-transformers/LaBSE",
+        "model_name": "LaBSE",
         "embd_dtype": "float32",
         "embd_dim": 768,
         "num_params": 471000000,
@@ -180,7 +192,7 @@
         "alias": null
     },
     {
-        "model_name": "sentence-transformer/multi-qa-MiniLM-L6-cos-v1",
+        "model_name": "multi-qa-MiniLM-L6-cos-v1",
         "embd_dtype": "float32",
         "embd_dim": 384,
         "num_params": 22700000,
