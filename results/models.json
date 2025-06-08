@@ -264,18 +264,6 @@
         "alias": null
     },
     {
-        "model_name": "voyage-3",
-        "embd_dtype": "float32",
-        "embd_dim": 1024,
-        "num_params": null,
-        "max_tokens": 32000,
-        "similarity": "cosine",
-        "query_instruct": "Represent the query for retrieving supporting documents: ",
-        "corpus_instruct": "Represent the document for retrieval: ",
-        "reference": "https://docs.voyageai.com/docs/embeddings",
-        "alias": null
-    },
-    {
         "model_name": "voyage-3.5",
         "embd_dtype": "float32",
         "embd_dim": 1024,
